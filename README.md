@@ -16,9 +16,9 @@ All keys and values are automatically converted to lowercase for consistency, ex
 
 Project Structure
 
-user-configuration-manager/
-├── settings.py
-└── README.md
+user-configuration-manager
+settings.py
+README.md
 
 Functions
 
