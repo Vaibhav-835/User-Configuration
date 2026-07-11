@@ -41,21 +41,3 @@ def view_settings(settings):
 test_settings = {'theme': 'dark', 'notifications': 'enabled'}
 
 print(view_settings(test_settings))
-
-    
-
-
-    
-
-    
-    
-    
-
-
-
-    
-    
-
-
-
-    
